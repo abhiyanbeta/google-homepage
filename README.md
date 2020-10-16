@@ -2,11 +2,11 @@
 
 This project is part of The Odin Project. This project aims to clone the Google homepage using HTML and CSS.
 
-# Live preview
+## Live preview
 
 https://abhiyanbeta.github.io/google-homepage/
 
-# Reflection
+## Reflection
 
 I used Chrome inspect tools on the Google homepage to identify styling attributes of various items. I also viewed other students' solutions to obtain svg images of the magnifying icon and microphone icon. Initally, I was unable to re-create anything properly and was tempted to just copy another student's solution but I would only be cheating myself because I wouldn't be learning much. This isn't going to be a showcase portfolio item, it is only for my own learning anyway. So I called it a day and took some rest.
 
